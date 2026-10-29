@@ -20,5 +20,13 @@ e. Remove Numbers: Exclude numeric values from the text.
 
 **3.Stemming**: Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)" for this purpose.<br>
 
+**Design:**<br>
+<img width="1033" height="653" alt="image" src="https://github.com/user-attachments/assets/8f04758e-a77a-4b67-ac3b-57f5d7eeef47" />
+
+<img width="1033" height="642" alt="image" src="https://github.com/user-attachments/assets/7287d2b2-6b0c-4e34-a0bf-4206d4abbd40" />
+
 **Output:**<br>
+
+<img width="1033" height="600" alt="image" src="https://github.com/user-attachments/assets/c60c2e05-50a9-4797-944c-2079739c0f4d" />
+
 **Result:**
