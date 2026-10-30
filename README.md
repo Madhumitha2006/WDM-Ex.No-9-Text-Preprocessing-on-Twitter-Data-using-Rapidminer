@@ -1,5 +1,6 @@
 # WDM-Ex.No-9-Text-Preprocessing-on-Twitter-Data-using-Rapidminer
-**DATE:**<br>
+## Name: Madhu Mitha V
+## DATE:
 **AIM:**<br>
 To implement preprocessing technique on Twitter Data using Rapidminer<br>
 **Description:**<br>
@@ -21,12 +22,13 @@ e. Remove Numbers: Exclude numeric values from the text.
 **3.Stemming**: Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)" for this purpose.<br>
 
 **Design:**<br>
-<img width="1033" height="653" alt="image" src="https://github.com/user-attachments/assets/8f04758e-a77a-4b67-ac3b-57f5d7eeef47" />
-
-<img width="1033" height="642" alt="image" src="https://github.com/user-attachments/assets/7287d2b2-6b0c-4e34-a0bf-4206d4abbd40" />
+<img width="1917" height="1016" alt="Screenshot 2026-10-30 142340" src="https://github.com/user-attachments/assets/66241e96-388c-4289-ab12-2bf848456fbb" />
+<img width="1917" height="1017" alt="Screenshot 2026-10-30 142259" src="https://github.com/user-attachments/assets/967047b3-9ff0-4733-8039-841d99129c16" />
 
 **Output:**<br>
+<img width="1401" height="1007" alt="Screenshot 2026-10-30 142403" src="https://github.com/user-attachments/assets/a2a9f7ff-6b07-46b5-9fec-7f5e3f87430f" />
 
-<img width="1033" height="600" alt="image" src="https://github.com/user-attachments/assets/c60c2e05-50a9-4797-944c-2079739c0f4d" />
+
 
 **Result:**
+Preprocessing technique on Twitter Data using Rapidminer is implemented.
